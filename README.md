@@ -28,7 +28,7 @@ The dataset includes several medical predictor variables and one target variable
 
 ## Result
 
-The optimized XGBoost model achieved a **Cross Validation Score** of **0.90**, making it the most reliable model for predicting diabetes based on the dataset's variables.
+The optimized XGBoost model achieved a **Cross Validation Score** of **81.17**, making it the most reliable model for predicting diabetes based on the dataset's variables.
 
 ## Conclusion
 
